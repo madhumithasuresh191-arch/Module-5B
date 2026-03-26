@@ -17,8 +17,13 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 ---
 
 ## 💻 Program
-Add code here
+~~~
 
+import pandas as pd
+d=pd.DataFrame({'s_id':['S1','S2','S3','S4','S5'],'name':['Dan','Ryder','Bryce','Bernal','Kwame'],'marks':[200, 210, 190, 222,199]})
+print(d)
+~~~
 ## Output
+<img width="1023" height="750" alt="Screenshot 2026-03-26 105038" src="https://github.com/user-attachments/assets/3dff1856-19e2-475c-9a53-1e0f36d9dc76" />
 
 ## Result
